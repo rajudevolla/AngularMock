@@ -1,0 +1,594 @@
+{
+    "summary": {
+        "success": 15,
+        "failed": 9,
+        "error": false,
+        "disconnected": false,
+        "exitCode": 1
+    },
+    "browsers": [
+        {
+            "browser": {
+                "id": "52823166",
+                "fullName": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0",
+                "name": "Firefox 70.0.0 (Ubuntu 0.0.0)",
+                "state": "DISCONNECTED",
+                "lastResult": {
+                    "startTime": 1598500758646,
+                    "total": 24,
+                    "success": 15,
+                    "failed": 9,
+                    "skipped": 0,
+                    "totalTime": 2733,
+                    "netTime": 2531,
+                    "error": false,
+                    "disconnected": false
+                },
+                "disconnectsCount": 0,
+                "noActivityTimeout": 50000,
+                "disconnectDelay": 2000
+            },
+            "errors": [],
+            "results": [
+                {
+                    "fullName": "DaysCountPipe create an instance",
+                    "description": "create an instance",
+                    "id": "spec13",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "DaysCountPipe"
+                    ],
+                    "time": 10,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "SolarAllocationListComponent should invoke service and return IDs on invoking getAllocations function",
+                    "description": "should invoke service and return IDs on invoking getAllocations function",
+                    "id": "spec15",
+                    "log": [
+                        "Expected spy getAllocations to have been called.",
+                        "<Jasmine>",
+                        "./src/app/solar-allocation-list/solar-allocation-list.component.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1047:21",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "runInTestZone/</testZoneSpec</<@http://localhost:9876/_karma_webpack_/vendor.js:119356:21",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone/</testZoneSpec<@http://localhost:9876/_karma_webpack_/vendor.js:119355:29",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</AsyncTestZoneSpec.prototype._finishCallbackIfDone/</<@http://localhost:9876/_karma_webpack_/vendor.js:119187:31",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3818:34",
+                        "ZoneTask/this.invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3807:48",
+                        "timer@http://localhost:9876/_karma_webpack_/polyfills.js:6003:29",
+                        "Expected $.length = 0 to equal 3.",
+                        "Expected $[0] = undefined to equal 2000.",
+                        "Expected $[1] = undefined to equal 2001.",
+                        "Expected $[2] = undefined to equal 2002.",
+                        "<Jasmine>",
+                        "./src/app/solar-allocation-list/solar-allocation-list.component.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1048:42",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "runInTestZone/</testZoneSpec</<@http://localhost:9876/_karma_webpack_/vendor.js:119356:21",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone/</testZoneSpec<@http://localhost:9876/_karma_webpack_/vendor.js:119355:29",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</AsyncTestZoneSpec.prototype._finishCallbackIfDone/</<@http://localhost:9876/_karma_webpack_/vendor.js:119187:31",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3818:34",
+                        "ZoneTask/this.invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3807:48",
+                        "timer@http://localhost:9876/_karma_webpack_/polyfills.js:6003:29"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "SolarAllocationListComponent"
+                    ],
+                    "time": 212,
+                    "executedExpectationsCount": 2
+                },
+                {
+                    "fullName": "SolarAllocationListComponent should display error message on getSolarHeaterbyId invocation",
+                    "description": "should display error message on getSolarHeaterbyId invocation",
+                    "id": "spec18",
+                    "log": [
+                        "Expected undefined to equal 'Invalid ID'.",
+                        "<Jasmine>",
+                        "./src/app/solar-allocation-list/solar-allocation-list.component.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1065:40",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "runInTestZone/</testZoneSpec</<@http://localhost:9876/_karma_webpack_/vendor.js:119356:21",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone/</testZoneSpec<@http://localhost:9876/_karma_webpack_/vendor.js:119355:29",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</AsyncTestZoneSpec.prototype._finishCallbackIfDone/</<@http://localhost:9876/_karma_webpack_/vendor.js:119187:31",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3818:34",
+                        "ZoneTask/this.invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3807:48",
+                        "timer@http://localhost:9876/_karma_webpack_/polyfills.js:6003:29"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "SolarAllocationListComponent"
+                    ],
+                    "time": 268,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "SolarAllocationListComponent should return details of ID selected by invoking getSolarHeaterbyId function",
+                    "description": "should return details of ID selected by invoking getSolarHeaterbyId function",
+                    "id": "spec17",
+                    "log": [
+                        "Expected undefined to be '{\"solarHeaterId\":2002,\"distributorName\":\"A4solar\",\"purchaseDate\":\"2020-02-04T11:30:54.000Z\",\"installationDate\":\"2020-02-11T11:30:54.000Z\",\"customerId\":1001,\"message\":\"\"}'.",
+                        "<Jasmine>",
+                        "./src/app/solar-allocation-list/solar-allocation-list.component.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1060:57",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "runInTestZone/</testZoneSpec</<@http://localhost:9876/_karma_webpack_/vendor.js:119356:21",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone/</testZoneSpec<@http://localhost:9876/_karma_webpack_/vendor.js:119355:29",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</AsyncTestZoneSpec.prototype._finishCallbackIfDone/</<@http://localhost:9876/_karma_webpack_/vendor.js:119187:31",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3818:34",
+                        "ZoneTask/this.invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3807:48",
+                        "timer@http://localhost:9876/_karma_webpack_/polyfills.js:6003:29"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "SolarAllocationListComponent"
+                    ],
+                    "time": 133,
+                    "executedExpectationsCount": 2
+                },
+                {
+                    "fullName": "SolarAllocationListComponent should display received error message on getAllId invocation",
+                    "description": "should display received error message on getAllId invocation",
+                    "id": "spec16",
+                    "log": [
+                        "Expected undefined to equal 'Invalid ID'.",
+                        "<Jasmine>",
+                        "./src/app/solar-allocation-list/solar-allocation-list.component.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1053:40",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "runInTestZone/</testZoneSpec</<@http://localhost:9876/_karma_webpack_/vendor.js:119356:21",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone/</testZoneSpec<@http://localhost:9876/_karma_webpack_/vendor.js:119355:29",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</AsyncTestZoneSpec.prototype._finishCallbackIfDone/</<@http://localhost:9876/_karma_webpack_/vendor.js:119187:31",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3818:34",
+                        "ZoneTask/this.invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3807:48",
+                        "timer@http://localhost:9876/_karma_webpack_/polyfills.js:6003:29"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "SolarAllocationListComponent"
+                    ],
+                    "time": 73,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "SolarAllocationListComponent should create",
+                    "description": "should create",
+                    "id": "spec14",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "SolarAllocationListComponent"
+                    ],
+                    "time": 76,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "SolarAllocationListService with spies should return an error when the server returns a 404 on getting details based on ID",
+                    "description": "should return an error when the server returns a 404 on getting details based on ID",
+                    "id": "spec23",
+                    "log": [
+                        "TypeError: solarAllocationService.getSolarHeaterbyId(...) is undefined in http://localhost:9876/_karma_webpack_/main.js (line 1187)",
+                        "./src/app/solar-allocation-list/solar-allocation-list.service.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1187:32",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "drainMicroTaskQueue@http://localhost:9876/_karma_webpack_/polyfills.js:3912:35"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "SolarAllocationListService with spies"
+                    ],
+                    "time": 38,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "SolarAllocationListService with spies should return expected solar allocation ID detail (HttpClient called once)",
+                    "description": "should return expected solar allocation ID detail (HttpClient called once)",
+                    "id": "spec21",
+                    "log": [
+                        "TypeError: solarAllocationService.getSolarHeaterbyId(...) is undefined in http://localhost:9876/_karma_webpack_/main.js (line 1162)",
+                        "./src/app/solar-allocation-list/solar-allocation-list.service.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1162:32",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "drainMicroTaskQueue@http://localhost:9876/_karma_webpack_/polyfills.js:3912:35",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3822:21",
+                        "ZoneTask/this.invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3807:48",
+                        "timer@http://localhost:9876/_karma_webpack_/polyfills.js:6003:29"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "SolarAllocationListService with spies"
+                    ],
+                    "time": 51,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "SolarAllocationListService with spies should be created",
+                    "description": "should be created",
+                    "id": "spec19",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "SolarAllocationListService with spies"
+                    ],
+                    "time": 42,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "SolarAllocationListService with spies should return an error when the server returns a 404 on collecting ID list",
+                    "description": "should return an error when the server returns a 404 on collecting ID list",
+                    "id": "spec22",
+                    "log": [
+                        "TypeError: solarAllocationService.getAllocations(...) is undefined in http://localhost:9876/_karma_webpack_/main.js (line 1173)",
+                        "./src/app/solar-allocation-list/solar-allocation-list.service.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1173:32",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "drainMicroTaskQueue@http://localhost:9876/_karma_webpack_/polyfills.js:3912:35"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "SolarAllocationListService with spies"
+                    ],
+                    "time": 45,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "SolarAllocationListService with spies should return expected solar allocation IDs (HttpClient called once)",
+                    "description": "should return expected solar allocation IDs (HttpClient called once)",
+                    "id": "spec20",
+                    "log": [
+                        "TypeError: solarAllocationService.getAllocations(...) is undefined in http://localhost:9876/_karma_webpack_/main.js (line 1148)",
+                        "./src/app/solar-allocation-list/solar-allocation-list.service.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:1148:32",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "drainMicroTaskQueue@http://localhost:9876/_karma_webpack_/polyfills.js:3912:35"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "SolarAllocationListService with spies"
+                    ],
+                    "time": 49,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "AllocateComponent form invalid when empty",
+                    "description": "form invalid when empty",
+                    "id": "spec5",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 239,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "AllocateComponent customer Id field validity",
+                    "description": "customer Id field validity",
+                    "id": "spec9",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 172,
+                    "executedExpectationsCount": 2
+                },
+                {
+                    "fullName": "AllocateComponent installation date field validity",
+                    "description": "installation date field validity",
+                    "id": "spec8",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 146,
+                    "executedExpectationsCount": 2
+                },
+                {
+                    "fullName": "AllocateComponent should be created",
+                    "description": "should be created",
+                    "id": "spec4",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 131,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "AllocateComponent purchase date field validity",
+                    "description": "purchase date field validity",
+                    "id": "spec7",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 113,
+                    "executedExpectationsCount": 2
+                },
+                {
+                    "fullName": "AllocateComponent distributor name field validity",
+                    "description": "distributor name field validity",
+                    "id": "spec6",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 148,
+                    "executedExpectationsCount": 2
+                },
+                {
+                    "fullName": "AllocateComponent should display error message submitting the form",
+                    "description": "should display error message submitting the form",
+                    "id": "spec12",
+                    "log": [
+                        "Expected Object({ error: Object({ message: 'Customer ID already taken' }) }) to equal 'Customer ID already taken'.",
+                        "<Jasmine>",
+                        "./src/app/allocate/allocate.component.spec.ts/</<@http://localhost:9876/_karma_webpack_/main.js:762:40",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone@http://localhost:9876/_karma_webpack_/vendor.js:119035:34",
+                        "wrapTestInZone/<@http://localhost:9876/_karma_webpack_/vendor.js:119050:20",
+                        "<Jasmine>",
+                        "runInTestZone/</testZoneSpec</<@http://localhost:9876/_karma_webpack_/vendor.js:119356:21",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3712:26",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</ProxyZoneSpec.prototype.onInvoke@http://localhost:9876/_karma_webpack_/vendor.js:118782:39",
+                        "invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3711:52",
+                        "run@http://localhost:9876/_karma_webpack_/polyfills.js:3477:43",
+                        "runInTestZone/</testZoneSpec<@http://localhost:9876/_karma_webpack_/vendor.js:119355:29",
+                        "./node_modules/zone.js/dist/zone-testing.js/</</AsyncTestZoneSpec.prototype._finishCallbackIfDone/</<@http://localhost:9876/_karma_webpack_/vendor.js:119187:31",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3744:31",
+                        "runTask@http://localhost:9876/_karma_webpack_/polyfills.js:3521:47",
+                        "invokeTask@http://localhost:9876/_karma_webpack_/polyfills.js:3818:34",
+                        "ZoneTask/this.invoke@http://localhost:9876/_karma_webpack_/polyfills.js:3807:48",
+                        "timer@http://localhost:9876/_karma_webpack_/polyfills.js:6003:29"
+                    ],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": false,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 113,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "AllocateComponent should invoke service on submitting the form",
+                    "description": "should invoke service on submitting the form",
+                    "id": "spec11",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 236,
+                    "executedExpectationsCount": 2
+                },
+                {
+                    "fullName": "AllocateComponent submitting a form when all the field is entered",
+                    "description": "submitting a form when all the field is entered",
+                    "id": "spec10",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateComponent"
+                    ],
+                    "time": 134,
+                    "executedExpectationsCount": 2
+                },
+                {
+                    "fullName": "AllocateServiceService should be created",
+                    "description": "should be created",
+                    "id": "spec0",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateServiceService"
+                    ],
+                    "time": 20,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "AllocateServiceService should check the post call should return error message from backend",
+                    "description": "should return error message from backend",
+                    "id": "spec3",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateServiceService",
+                        "should check the post call"
+                    ],
+                    "time": 32,
+                    "executedExpectationsCount": 0
+                },
+                {
+                    "fullName": "AllocateServiceService should check the post call should return value from backend",
+                    "description": "should return value from backend",
+                    "id": "spec2",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateServiceService",
+                        "should check the post call"
+                    ],
+                    "time": 25,
+                    "executedExpectationsCount": 1
+                },
+                {
+                    "fullName": "AllocateServiceService should check the post call should make request under POST method",
+                    "description": "should make request under POST method",
+                    "id": "spec1",
+                    "log": [],
+                    "skipped": false,
+                    "disabled": false,
+                    "pending": false,
+                    "success": true,
+                    "suite": [
+                        "AllocateServiceService",
+                        "should check the post call"
+                    ],
+                    "time": 25,
+                    "executedExpectationsCount": 1
+                }
+            ]
+        }
+    ]
+}

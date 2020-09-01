@@ -1,0 +1,45 @@
+<div class="row">
+    <div class="col-md-5 col-md-offset-4">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Solar Heater Allocator</div>
+            <div class="panel-body"> 
+                <form  [formGroup]="allocateForm">
+                    <div class="form-group" style="margin-bottom: 5px;">
+                        <label for="distributorName">DistributorName:</label>
+                        <input type="text"  class="form-control" formControlName="distributorName" name="distributorName" id="distributorName" >
+                        <span id="distributorNameError" class="alert" *ngIf="(allocateForm.controls.distributorName.touched && allocateForm.controls.distributorName.errors)"  class="alert">This is field is required</span>
+                    </div>
+
+                    <div class="form-group" style="margin-bottom: 5px;">
+                        <label for="purchaseDate">Purchase Date:</label>
+                        <input type="text"  class="form-control" formControlName="purchaseDate" name="purchaseDate" id="purchaseDate" placeholder="mm/dd/yyyy">
+                        <span id="purchaseDateError" class="alert" [hidden]="allocateForm.controls.purchaseDate.valid || allocateForm.controls.purchaseDate.pristine || !allocateForm.controls.purchaseDate.touched" class="alert">This is field is required</span>
+                    </div>
+
+                    <div class="form-group" style="margin-bottom: 5px;">
+                        <label for="installationDate">Installation Date:</label>
+                        <input type="text"  class="form-control" formControlName="installationDate" name="installationDate" id="installationDate" placeholder="mm/dd/yyyy" >
+                        <span id="installationDateError" style="color: red;" [hidden]="!allocateForm.controls.installationDate.errors || allocateForm.controls.installationDate.pristine || !allocateForm.controls.installationDate.touched" class="alert">This is field is required</span>
+                    </div>
+
+                    <div class="from-group" style="margin-bottom: 5px;">
+                        <label for="customerId">Customer ID:</label>
+                        <input type="number"  class="form-control" formControlName="customerId" name="customerId" id="customerId" >
+                        <span id="customerIdError" style="color: red;" [hidden]="!allocateForm.controls.customerId.errors || allocateForm.controls.customerId.pristine " class="alert">This is field is required</span>
+                    </div>
+                    
+                    <div class="form-group">
+                       <button class="btn btn-primary" (click)="register()" [disabled]=!allocateForm.valid> Register </button>
+                    </div>
+                    <div class="form-group">
+                        <span id="message" *ngIf="successMessage" style="color: green;">{{successMessage}}</span>
+                        <span id="errormessage" *ngIf="errorMessage" style="color: red;">{{errorMessage}}</span>
+ 
+                    </div>
+
+                </form>
+                
+            </div>
+        </div>
+    </div>
+</div>

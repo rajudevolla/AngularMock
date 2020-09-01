@@ -1,0 +1,638 @@
+TypeError: Cannot read property 'solarHeaterId' of undefined
+    at Function.SolarHeater.toObject (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\SolarHeater.js:10:35)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\routes\Routing.js:9:30
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+TypeError: Cannot read property 'solarHeaterId' of undefined
+    at Function.SolarHeater.toObject (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\SolarHeater.js:10:35)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\routes\Routing.js:9:30
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+TypeError: Cannot read property 'solarHeaterId' of undefined
+    at Function.SolarHeater.toObject (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\SolarHeater.js:10:35)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\routes\Routing.js:10:30
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+TypeError: Cannot read property 'solarHeaterId' of undefined
+    at Function.SolarHeater.toObject (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\SolarHeater.js:10:35)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\routes\Routing.js:10:30
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+TypeError: Cannot read property 'solarHeaterId' of undefined
+    at Function.SolarHeater.toObject (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\SolarHeater.js:11:35)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\routes\Routing.js:10:30
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+TypeError: Cannot read property 'solarHeaterId' of undefined
+    at Function.SolarHeater.toObject (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\SolarHeater.js:11:35)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\routes\Routing.js:10:30
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+TypeError: Cannot read property 'solarHeaterId' of undefined
+    at Function.SolarHeater.toObject (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\SolarHeater.js:11:35)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\routes\Routing.js:10:30
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+TypeError: Cannot read property 'solarHeaterId' of undefined
+    at Function.SolarHeater.toObject (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\SolarHeater.js:11:35)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\routes\Routing.js:10:30
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\express\lib\router\index.js:275:10)
+Error: Installation Date cannot be before Purchase Date.
+    at Object.Validator.validateDate (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\Validator.js:11:15)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\AllocatorBL.js:16:23
+    at tryCatcher (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:693:18)
+    at Async._drainQueue (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+Error: Installation Date cannot be before Purchase Date.
+    at Object.Validator.validateDate (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\Validator.js:11:15)
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\AllocatorBL.js:15:23
+    at tryCatcher (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:693:18)
+    at Async._drainQueue (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+Error: The given Customer ID is not available
+    at C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\public\javascripts\AllocatorBL.js:11:19
+    at tryCatcher (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\promise.js:693:18)
+    at Async._drainQueue (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\likhith.kolayari\Desktop\SHWebServiceSol\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+Error: Could not connect to Database
+    at C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\public\javascripts\connections.js:10:15
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Error in saving details
+    at C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\public\javascripts\AllocatorDAL.js:41:27
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\public\javascripts\AllocatorBL.js:8:15)
+    at C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\node_modules\express\lib\router\index.js:275:10)
+Error: Installation Date cannot be before Purchase Date.
+    at Object.Validator.validateDate (C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\public\javascripts\Validator.js:12:15)
+    at C:\Users\likhith.kolayari\Desktop\FA2-Mock\SHwebservice\public\javascripts\AllocatorBL.js:13:23
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: The given Customer ID is not available
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorBL.js:12:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: The given Customer ID is not available
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorBL.js:12:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:30:36
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:32:34
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:31:32
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:32:32
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:33:32
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:32:32
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:32:32
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:41:33
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at Object.AllocatorDAL.allocateHeater (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:28:32)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorBL.js:14:36
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+TypeError: date.toLocaleDateString is not a function
+    at Object.utility.formatDate (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\Utility.js:5:17)
+    at Object.AllocatorDAL.allocateHeater (D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:29:32)
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorBL.js:14:36
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+ReferenceError: purchaseDate is not defined
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:36:33
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+ReferenceError: purchaseDate is not defined
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:36:33
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+ReferenceError: purchaseDate is not defined
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:36:33
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+SyntaxError: Unexpected token d in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at parse (D:\FA3\Mock\Angular6\SHwebservice\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\FA3\Mock\Angular6\SHwebservice\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Mock\Angular6\SHwebservice\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Mock\Angular6\SHwebservice\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Mock\Angular6\SHwebservice\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+ReferenceError: purchaseDate is not defined
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:36:33
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+ReferenceError: purchaseDate is not defined
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:36:33
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+ReferenceError: purchaseDate is not defined
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorDAL.js:36:33
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: The given Customer ID is not available
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorBL.js:12:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: The given Customer ID is not available
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorBL.js:12:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: The given Customer ID is not available
+    at D:\FA3\Mock\Angular6\SHwebservice\public\javascripts\AllocatorBL.js:12:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\Validator.js:5:15)
+    at Object.AllocatorBL.allocate (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\public\javascripts\AllocatorBL.js:8:15)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\routes\Routing.js:10:18
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular\Mock QP\Mock_Sol\Mock_Sol\express\node_modules\express\lib\router\index.js:275:10)

@@ -1,0 +1,456 @@
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+SyntaxError: Unexpected token d in JSON at position 10
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token ' in JSON at position 10
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token ' in JSON at position 30
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token ' in JSON at position 30
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token e in JSON at position 66
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token e in JSON at position 66
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token e in JSON at position 109
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected string in JSON at position 129
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected string in JSON at position 98
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected number in JSON at position 50
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected number in JSON at position 50
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected number in JSON at position 50
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected number in JSON at position 50
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected number in JSON at position 50
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected number in JSON at position 49
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token ' in JSON at position 48
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected number in JSON at position 49
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token d in JSON at position 2
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected number in JSON at position 49
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token ' in JSON at position 83
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+SyntaxError: Unexpected token d in JSON at position 2
+    at JSON.parse (<anonymous>)
+    at parse (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/types/json.js:89:19)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:224:16)
+    at done (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: The given Customer ID is not available
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:12:19
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Invalid! Customer Id should be a 4 digit number
+    at Object.Validator.validateCustomer (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/Validator.js:5:15)
+    at Object.AllocatorBL.allocate (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/public/javascripts/AllocatorBL.js:8:15)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/routes/Routing.js:10:18
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Desktop/user_repo/Certification_Assessment/SolarAllocationWS/node_modules/express/lib/router/index.js:275:10)
